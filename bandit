@@ -1,0 +1,12 @@
+level		          command				                    FLAG			                                                                  (help)			
+
+1	                cat filename		                  NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+2		              cat < - 		                      rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi	                                        (-=filename)
+3	               	cat filename 		                  aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+4	               	cat .hidden		                    2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe	                                        (file hidden)
+5		              file ./* 		                      lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR	                                        find file with ASCII with <file ./*> then cat./<filename> here filename starts with < - > so <cat ./-file07>
+
+
+
+
+
