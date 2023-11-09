@@ -4,3 +4,5 @@ The wargames offered by the OverTheWire community can help you to learn and prac
 To find out more about a certain wargame, just visit its page linked from the menu on the left.
 
 
+Connect via ssh
+ssh bandit4@bandit.labs.overthewire.org -p 2220
